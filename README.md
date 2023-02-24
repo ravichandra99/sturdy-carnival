@@ -2,8 +2,8 @@
 
 # Prerequisites
 
-Docker
-Docker Compose
+Docker,
+Docker Compose,
 IDE
 
 # Clone the repository
@@ -60,7 +60,7 @@ URL : http://127.0.0.1:5000/papi/secure/campaigns  REQUEST: POST and following e
   }
 }```
 
-Example response data:
+#Example response data:
 
 ```{
   "data": {
