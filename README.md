@@ -27,7 +27,7 @@ IDE
 
 Set the following parameters in postman
 
-###URL : http://127.0.0.1:5000/papi/secure/campaigns  REQUEST: POST and following example data
+URL : http://127.0.0.1:5000/papi/secure/campaigns  REQUEST: POST and following example data
 
 ```JSON
 {
@@ -62,7 +62,7 @@ Set the following parameters in postman
 }
 ```
 
-###Example response data:
+Example response data:
 
 ```JSON
 {
