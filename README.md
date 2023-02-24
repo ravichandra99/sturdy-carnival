@@ -97,6 +97,6 @@ Example response data:
 }
 ```
 
-Rest of the end points can be found in the https://documenter.getpostman.com/view/6352809/TVKD4J2Z#235b6c0a-012a-4760-8f3f-7fe00907cb7e
+Rest of the end points can be found in the url https://documenter.getpostman.com/view/6352809/TVKD4J2Z#235b6c0a-012a-4760-8f3f-7fe00907cb7e
 
 
